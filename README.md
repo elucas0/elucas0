@@ -22,16 +22,16 @@
 ## Main projects
 
 <div align="center"">
-  <a>
+  <a href="https://github.com/elucas0/Gamed">
     <img height=150 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=elucas0&repo=gamed&theme=gruvbox&hide_border=true&border_radius=12" />
   </a>
-  <a>
+  <a href="https://github.com/elucas0/SAE-PNR">
     <img height=150 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=elucas0&repo=SAE-PNR&theme=gruvbox&hide_border=true&border_radius=12" />
   </a>
-  <a>
-    <img height=150 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=elucas0&repo=punto-vite&theme=gruvbox&hide_border=true&border_radius=12" />
+  <a href="https://github.com/elucas0/punto">
+    <img height=150 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=elucas0&repo=punto&theme=gruvbox&hide_border=true&border_radius=12" />
   </a>
-  <a>
+  <a href="https://github.com/HeineZo/la-palme-verte">
     <img height=150 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=HeineZo&repo=la-palme-verte&theme=gruvbox&hide_border=true&border_radius=12" />
   </a>
 </div>
