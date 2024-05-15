@@ -55,8 +55,6 @@
     <span>&nbsp;</span>
     <img alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
     <span>&nbsp;</span>
-    <img alt="Vue" width="40px" src="https://skillicons.dev/icons?i=vue" />
-    <span>&nbsp;</span>
     <img alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs" />
   </div>
 
@@ -65,8 +63,6 @@
     <img alt="Java" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java"/>
     <span>&nbsp;</span>
     <img alt="Python" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=python" />
-    <span>&nbsp;</span>
-    <img alt="Rust" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=rust"/>
     <span>&nbsp;</span>
     <img alt="C++" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cpp" />
   </div>
@@ -78,8 +74,6 @@
     <img alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgresql" />
     <span>&nbsp;</span>
     <img alt="MongoDB" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mongodb"/>
-    <span>&nbsp;</span>
-    <img alt="GraphQL" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=graphql" />
   </div>
 
   <div>
@@ -89,13 +83,11 @@
     <img alt="Docker" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
     <span>&nbsp;</span>
     <img alt="GitLab" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=gitlab" />
-    <span>&nbsp;</span>
-    <img alt="Jenkins" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=jenkins" />
   </div>
 </div>
 
 ## Hobbies
-I enjoy editing AMVs about Cinema on my [YouTube](https://www.youtube.com/channel/UCqS7doQqomUKhXTaQoLiN0Q) channel
+I enjoy editing AMVs about Cinema on my [YouTube](https://www.youtube.com/channel/UCqS7doQqomUKhXTaQoLiN0Q) channel !
 
 I also create 3D scenes on Blender and share them on my social medias
 
