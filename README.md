@@ -1,9 +1,7 @@
 # Elouann Lucas
-🏫 Student in computer science at the **Vannes Institute of Technology**
+🏫 Student in geoinformatics at the **Paris Lodron Universität Salzburg**
 
-🏢 Part-time apprentice at **CGI France**, located in Larmor-Plage, Britanny
-
-🌐 Passionate about web development, AI, computer graphics, and more...
+🌐 Passionate about applications development, AI, computer graphics, and more...
 
 ### Contact me :
 
